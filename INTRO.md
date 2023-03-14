@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MJRothera
 - 👀 I’m interested in Learning about Earth and Space Science
 - 🌱 I’m currently learning how to Create my own Digital Outcome
-- 💞️ I’m looking to collaborate on my digtial outcome
+- 💞️ I’m looking to collaborate on my Critical enquiry to propose a digital outcome
 - 📫 How to reach me. You can reach me on my email mjrothera@student.christscollege.com or +64-27-585-0019
 
 <!---
